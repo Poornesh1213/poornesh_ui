@@ -1,0 +1,2 @@
+div[data-slot-type="ad_block_content_after_component"][data-slot-state="disabled"],div[data-slot-type="dfp_after_component"][data-slot-state="disabled"]{display:none}
+.article-body div[data-slot-type="ad_block_content_after_component"][data-slot-state="rendered"],.article-body div[data-slot-type="dfp_after_component"][data-slot-state="rendered"]{margin-bottom:28px}
